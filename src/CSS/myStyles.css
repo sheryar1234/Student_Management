@@ -1,0 +1,11 @@
+.cont{
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+    padding: 6rem 40px !important;
+    position: relative;
+    padding-top: 10rem !important;
+    /* width:230rem !important; */
+    } 
+   

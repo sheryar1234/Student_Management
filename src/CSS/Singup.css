@@ -1,0 +1,82 @@
+.login-page ,
+.student-form-container{
+    /* font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background-color: #301934; */
+    color: #fff;
+    
+}
+.login-container ,
+.student-form{
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.718);
+    padding: 20px;
+    width: 300px;
+}
+.login-container h2 ,
+.student-form  h2{
+    margin-bottom: 20px;
+    text-align: center;
+}
+.login-container .form-group , 
+.student-form .form-group{
+    margin-bottom: 15px;
+}
+.login-container .form-group label,
+.student-form .form-group label{
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.login-container .form-group input,
+.login-container .form-group select,
+.student-form .form-group input{
+    width: 20rem;
+    border-radius: 10px;
+    padding: 8px;
+    box-sizing: border-box;
+    margin-top: 5px;
+    background-color: #fff;
+    color: black;
+}
+.login-container .btn-login, 
+.student-form button{
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px;
+    width: 34%;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-top: 8px;
+}
+
+.form-group input{
+    width: 20rem;
+    border-radius: 10px;
+    padding: 8px;
+    box-sizing: border-box;
+    margin-top: 5px;
+    background-color: #fff;
+    color: black;
+}
+
+.links{
+    color: antiquewhite;
+  font-size: 19px;
+  padding-top: 9px;
+  box-shadow: 5px #888888;
+}
+.links:hover{
+  color: blue !important;
+  cursor: pointer;
+  text-decoration-line: underline;
+}
